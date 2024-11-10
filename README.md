@@ -72,9 +72,9 @@ Feel free to modify this template to better fit your project's needs!
 
 
 ## Customization Tips
-- Replace placeholders like [books] with the actual names of your resources.
+- Replace placeholders like [books] with the actual names of your resource.
 - Include any additional sections relevant to your project, such as deployment instructions or acknowledgments.
-- Ensure that your API endpoints are accurate and reflect the actual structure of your application.
+- Ensure that your API endpoints are accurate and reflects the actual structure of your application.
 
 
 ### Upload a demo video for the application
